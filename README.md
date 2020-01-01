@@ -16,7 +16,6 @@ No current wireframe available as I did not get familiar with using [Balsamiq](h
 ## Features
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
 - Timetable - allows users the opening hours available,
 - Gallery - allows users to see what the facilities available at the gym
 - Navbar - allows users navigate the website easily by quickly going to the information they want
